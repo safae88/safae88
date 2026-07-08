@@ -42,7 +42,7 @@ I’m **Safae**, a passionate **Software Engineer** dedicated to building beauti
 
 I enjoy transforming ideas into interactive digital experiences through modern technologies and thoughtful design.
 
-Whether it's creating a responsive frontend, engineering a powerful backend, or designing intuitive interfaces, I love bringing imagination into reality.
+I love bringing imagination into reality.
 
 > **Turning coffee ☕ into clean code and creative solutions.**
 
@@ -50,7 +50,7 @@ Whether it's creating a responsive frontend, engineering a powerful backend, or 
 
 # ⚡ Tech Arsenal
 
-## 🎨 Frontend
+##  Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
@@ -58,7 +58,7 @@ Whether it's creating a responsive frontend, engineering a powerful backend, or 
 
 ---
 
-## ⚙ Backend
+##  Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,java,spring"/>
@@ -66,7 +66,7 @@ Whether it's creating a responsive frontend, engineering a powerful backend, or 
 
 ---
 
-## 🗄 Databases
+##  Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
@@ -74,39 +74,10 @@ Whether it's creating a responsive frontend, engineering a powerful backend, or 
 
 ---
 
-## 🛠 Tools
+##  Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,figma"/>
-</p>
-
-<p>
-
-🎨 Canva
-
-💻 WeBuild
-
-</p>
-
----
-
-# 🌟 What I Bring
-
-✨ Modern & Responsive Web Applications
-
-🚀 Scalable Backend Development
-
-🎨 Beautiful User Interfaces
-
-🔒 Secure Authentication Systems
-
-📱 Mobile-Friendly Experiences
-
-⚡ Clean Architecture
-
-🧩 API Development
-
-💡 Creative Problem Solving
 
 ---
 
@@ -136,7 +107,7 @@ Whether it's creating a responsive frontend, engineering a powerful backend, or 
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=safae88&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
@@ -146,43 +117,29 @@ Whether it's creating a responsive frontend, engineering a powerful backend, or 
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/safae-bouchouicha-1a31a23a7">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_TWITTER">
+<a href="@SBouchouicha8">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="YOUR_DISCORD">
+<a href="safae_00">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="YOUR_REDDIT">
+<a href="u/Safae_Bouchouicha">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:safaebouchouicha@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-# 💫 A Little Inspiration
-
-> *"Code is more than syntax.*
->
-> *It's imagination transformed into reality.*
->
-> *Every project is a new adventure.*
->
-> *Every challenge is another opportunity to grow."*
 
 ---
 
@@ -192,7 +149,7 @@ Whether it's creating a responsive frontend, engineering a powerful backend, or 
 
 If you enjoy my work, consider ⭐ starring a repository or connecting with me.
 
-### 🚀 Let's build the future together—one line of code at a time.
+### Hey you ! Let's build the future together—one line of code at a time.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
