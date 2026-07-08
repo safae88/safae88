@@ -49,13 +49,13 @@ const Safae = {
         "Spring Boot",
         "Cloud Technologies"
     ],
-    funFact: "I believe clean code is a form of art ✨"
+    funFact: "I believe clean code is a form of art 🌌"
 };
 ```
 
 ---
 
-# ✨ My Journey
+# 🌌 My Journey
 
 I’m **Safae**, a passionate **Software Engineer** dedicated to building beautiful, scalable, and impactful software.
 
@@ -66,7 +66,7 @@ I enjoy transforming ideas into interactive digital experiences through modern t
 
 ---
 
-# ⚡ Tech Arsenal
+# 🌌 Tech Arsenal
 
 ##  Frontend
 
@@ -99,33 +99,11 @@ I enjoy transforming ideas into interactive digital experiences through modern t
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=safae88&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safae88&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=safae88&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=safae88&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
@@ -163,7 +141,7 @@ I enjoy transforming ideas into interactive digital experiences through modern t
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+## 🌌 Thanks for Visiting!
 
 If you enjoy my work, consider ⭐ starring a repository or connecting with me.
 
