@@ -9,18 +9,16 @@
 
 ### 🌙 *"Every great application begins as a simple idea waiting for someone to bring it to life."*
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/safae88">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
-
-<a href="https://codeforces.com/profile/safae88">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces"/>
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=safae88&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
 
+## 🌌 Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
    <picture>
   <source
