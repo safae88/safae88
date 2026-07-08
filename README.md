@@ -1,6 +1,10 @@
-<div align="center">
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Safae%20Bouchouicha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+</p>
 
-# ✨ Welcome to My Magical Place ✨
+bringing imagination into reality
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Safae;Software+Engineer;Full+Stack+Developer;Building+Dreams+Into+Digital+Reality;Always+Learning+%F0%9F%9A%80" />
 
@@ -58,7 +62,6 @@ I’m **Safae**, a passionate **Software Engineer** dedicated to building beauti
 
 I enjoy transforming ideas into interactive digital experiences through modern technologies and thoughtful design.
 
-I love bringing imagination into reality.
 
 > **Turning coffee ☕ into clean code and creative solutions.**
 
