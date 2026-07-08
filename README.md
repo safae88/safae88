@@ -1,5 +1,5 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Safae%20Bouchouicha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=bringing%20imagination%20into%20reality!&descAlignY=51&descAlign=62"/>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=300&section=header&text=Safae%20Bouchouicha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=bringing%20imagination%20into%20reality!&descAlignY=51&descAlign=62"/>
 </p>
 
 
