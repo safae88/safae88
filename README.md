@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=320&section=header&text=Safae%20Bouchouicha&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=🌌%20Turning%20Dreams%20Into%20Digital%20Reality%20🌌&descSize=24&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=220&section=header&text=Safae%20Bouchouicha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚜️%20You%20see%20it%20a%20CODE%20i%20see%20it%20an%20ART%20⚜️&descSize=18&descAlignY=60"/>
 </p>
 
 
@@ -115,7 +115,7 @@ I enjoy transforming ideas into interactive digital experiences through modern t
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=safae88&theme=tokyonight&hide_border=true"/>
 
 </p>
 
