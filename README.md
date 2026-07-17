@@ -53,6 +53,7 @@ const Safae = {
     currentlyLearning: [
         "Advanced React",
         "Spring Boot",
+        "Next.js",
         "Cloud Technologies"
     ],
     funFact: "I believe clean code is a form of art 🌌"
