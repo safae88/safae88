@@ -148,7 +148,7 @@ I enjoy transforming ideas into interactive digital experiences through modern t
 
 <div align="center">
 
-## 🌌 Thanks for Visiting!
+## 🌌 Thanks for Visiting!!!
 
 If you enjoy my work, consider ⭐ starring a repository or connecting with me.
 
