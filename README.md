@@ -64,7 +64,7 @@ const Safae = {
 
 # 🌌 My Journey
 
-I’m **Safae**, a passionate **Software Engineer** dedicated to building beautiful, scalable, and impactful software.
+I’m **Safae**, a passionate **Software Developer** dedicated to building beautiful, scalable, and impactful software.
 
 I enjoy transforming ideas into interactive digital experiences through modern technologies and thoughtful design.
 
@@ -140,7 +140,7 @@ I enjoy transforming ideas into interactive digital experiences through modern t
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://safae-io-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 
