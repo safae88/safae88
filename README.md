@@ -128,7 +128,7 @@ I enjoy transforming ideas into interactive digital experiences through modern t
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="safae_00">
+<a href="https://discord.com/invite/safae">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
@@ -140,7 +140,7 @@ I enjoy transforming ideas into interactive digital experiences through modern t
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://safae-io-portfolio.vercel.app">
+<a href="https://safae-io-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 
